@@ -42,9 +42,14 @@ go run service-b/main.go
 <img width="1361" height="240" alt="Screenshot 2026-02-04 at 5 22 30 PM" src="https://github.com/user-attachments/assets/d954a34a-6426-4a56-b81b-31ea218f6cca" />
 
 
+
+
 ## Testing
 
-## Sample Output
+## Health Check
+
+<img width="1361" height="240" alt="Screenshot 2026-02-04 at 5 25 38 PM" src="https://github.com/user-attachments/assets/8c535013-47ac-45c0-8161-4a94fa13fec6" />
+
 
 ### Success Output
 With both services running:
