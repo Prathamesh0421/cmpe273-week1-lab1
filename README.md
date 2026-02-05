@@ -48,6 +48,16 @@ go run service-b/main.go
 
 ## Health Check
 
+```
+# Test Service A health
+curl http://127.0.0.1:8080/health
+# Expected: {"status":"ok"}
+
+# Test Service B health
+curl http://127.0.0.1:8081/health
+# Expected: {"status":"ok"}
+```
+
 <img width="1361" height="240" alt="Screenshot 2026-02-04 at 5 25 38 PM" src="https://github.com/user-attachments/assets/8c535013-47ac-45c0-8161-4a94fa13fec6" />
 
 
